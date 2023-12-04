@@ -1,0 +1,10 @@
+{
+    "id": "botble/backup",
+    "name": "Backup",
+    "namespace": "Botble\\Backup\\",
+    "provider": "Botble\\Backup\\Providers\\BackupServiceProvider",
+    "author": "Saleh Al-Mashnie",
+    "url": "salehalmashni.online",
+    "version": "2.0.0",
+    "description": "Backup & restore database, uploads folder"
+}

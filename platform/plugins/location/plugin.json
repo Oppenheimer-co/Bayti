@@ -1,0 +1,10 @@
+{
+    "id": "botble/location",
+    "name": "Location",
+    "namespace": "Botble\\Location\\",
+    "provider": "Botble\\Location\\Providers\\LocationServiceProvider",
+    "author": "Saleh Al-Mashnie",
+    "url": "salehalmashni.online",
+    "version": "1.1.0",
+    "description": "The description for module location"
+}
